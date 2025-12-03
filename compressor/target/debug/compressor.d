@@ -1,0 +1,1 @@
+C:\Users\Srishti\ Srivastava\Desktop\Projects\Backend\ and\ Database\Rust\Rust\ Projects\compressor\target\debug\compressor.exe: C:\Users\Srishti\ Srivastava\Desktop\Projects\Backend\ and\ Database\Rust\Rust\ Projects\compressor\src\main.rs
